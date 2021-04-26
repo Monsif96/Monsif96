@@ -1,8 +1,9 @@
 <h3> Hi 🙋🏻‍♂️, I'm Monsif.</h3>
-<hr size="8" width="90%" color=""> 
+
 I’m a Full Stack Developper, a fast learner. Obsessed with detail and quality. I love simple and elegant solutions for every problem.
 I am always open to collaborating on projects and innovative ideas. <br>
 Find out more about me & feel free to connect with me here:
+<br>
 <div>
   <a href="Monsif.Ghazaui.tab@gmail.com" rel="">
     <img src="https://img.shields.io/badge/Monsif.Ghazaui.tab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" data-canonical-src="" style="max-           width:100%;"></a>
@@ -53,6 +54,7 @@ Find out more about me & feel free to connect with me here:
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" data- canonical-src="" style="max-width:100%;"></a>  
 
 <br>
+<hr size="8" width="90%" color=""> 
 <a href="" rel="">
   <img src="https://github-readme-stats.vercel.app/api?username=Monsif96" alt="" data- canonical-src="" style="max-width:100%;"></a>
 <a href="" rel="">
