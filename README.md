@@ -16,7 +16,7 @@ Find out more about me & feel free to connect with me here:
 </div>
 
 <h3>⚡ Technologies</h3>
-<hr size="8" width="90%" color=""> 
+<hr size="8" width="100%" color=""> 
 <a href="https://twitter.com/MElghazaoui" rel="">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" data- canonical-src="" style="max-width:100%;"></a>
 <a href="https://twitter.com/MElghazaoui" rel="">
@@ -54,7 +54,7 @@ Find out more about me & feel free to connect with me here:
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" data- canonical-src="" style="max-width:100%;"></a>  
 
 <br>
-<hr size="8" width="90%" color=""> 
+<hr size="8" width="100%" color=""> 
 <a href="" rel="">
   <img src="https://github-readme-stats.vercel.app/api?username=Monsif96" alt="" data- canonical-src="" style="max-width:100%;"></a>
 <a href="" rel="">
