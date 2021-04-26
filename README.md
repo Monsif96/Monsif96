@@ -1,11 +1,12 @@
 <h3> Hi 🙋🏻‍♂️, I'm Monsif.</h3>
 
 I’m a Full Stack Developper, a fast learner. Obsessed with detail and quality. I love simple and elegant solutions for every problem.
-I am always open to collaborating on projects and innovative ideas. <br>
+I am always open to collaborating on projects and innovative ideas.
+<br></br>
 Find out more about me & feel free to connect with me here:
 <br>
 <div>
-  <a href="" rel="">
+  <a href="mailto:monsif.ghazaui.tab@gmail.com" rel="">
     <img src="https://img.shields.io/badge/Monsif.Ghazaui.tab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" data-canonical-src="" style="max-           width:100%;"></a>
 
   <a href="https://www.linkedin.com/in/monsif-el-ghazaoui-a852a8140/" rel="">
